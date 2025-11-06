@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "517240453174",
+    "firebase_url": "https://meditrack-8e9be-default-rtdb.firebaseio.com",
+    "project_id": "meditrack-8e9be",
+    "storage_bucket": "meditrack-8e9be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517240453174:android:860cc2460bda9b84aac097",
+        "android_client_info": {
+          "package_name": "com.example.medisense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOnQoWlcbrV5uKIIpd5RLyWDOvDBh7Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517240453174:android:146d57ebd08af970aac097",
+        "android_client_info": {
+          "package_name": "com.pass.MediTrackmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUOnQoWlcbrV5uKIIpd5RLyWDOvDBh7Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
