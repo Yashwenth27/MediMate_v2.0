@@ -25,7 +25,7 @@ public class UpdateStockDialogFragment extends DialogFragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.dialog_update_stock, container, false);
+        return inflater.inflate(R.layout.dialog_reschedule, container, false);
     }
 
     @Override
